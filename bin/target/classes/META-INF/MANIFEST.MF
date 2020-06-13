@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot Actuator Sample
+Implementation-Version: 2.0.2
+Built-By: LENOVO
+Implementation-Vendor-Id: org.springframework.boot
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-sample-actuator
+Created-By: Maven Integration for Eclipse
+
